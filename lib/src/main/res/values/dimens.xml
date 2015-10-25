@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="pinyin_width">100dp</dimen>
+    <dimen name="pinyin_text_size">75sp</dimen>
+    <dimen name="pinyin_default_padding">0dp</dimen>
+</resources>
